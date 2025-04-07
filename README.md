@@ -4,6 +4,8 @@ main work is done by https://github.com/bwmarrin/discordgo
 
 you can install it with go get -v github.com/codecare/discordbot/cmd/discordbot
 
+or you build it using go build -o discordbot cmd/discordbot/main.go
+
 this will install an executable in your default path for go executables $GOPATH/bin (default GOPATH=$HOME/go)
 
 discord bot needs:
