@@ -1,5 +1,5 @@
 module github.com/codecare/discordbot
 
-go 1.14
+go 1.21
 
-require github.com/bwmarrin/discordgo v0.20.3 // indirect
+require github.com/bwmarrin/discordgo v0.28.1
